@@ -9,7 +9,7 @@
     android:weightSum="10"
 
     tools:context=".modules.home.view.HomeActivity">
-    <RelativeLayout
+   <!-- <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         tools:ignore="Suspicious0dp"
@@ -24,12 +24,12 @@
             android:text="Categories"/>
 
     </RelativeLayout>
-    <GridLayout
+   --> <GridLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         tools:ignore="Suspicious0dp"
         android:layout_weight="8"
-        android:rowCount="4"
+        android:rowCount="1"
         android:columnCount="2"
         android:alignmentMode="alignMargins"
         android:padding="14dp"
