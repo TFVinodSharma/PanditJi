@@ -32,7 +32,7 @@
         android:rowCount="1"
         android:columnCount="2"
         android:alignmentMode="alignMargins"
-        android:padding="15dp"
+        android:padding="16dp"
         >
 
         <!--First Cadrview-->
