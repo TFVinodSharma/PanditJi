@@ -32,7 +32,7 @@
             android:layout_below="@+id/catname"
             android:layout_marginBottom="10dp"
             android:scaleType="centerCrop"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/download" />
 
 
         >

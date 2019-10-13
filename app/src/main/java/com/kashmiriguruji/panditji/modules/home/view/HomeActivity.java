@@ -16,7 +16,7 @@ public class HomeActivity extends AppCompatActivity {
     RecyclerView recyclerViewCategoies;
 
     public String[] Categories = {"Yagnopavit Sanskar", "Lagan", "Kahnether", "NeevPoojan", "Grahpravesh", "Navgarh Pooja", "Dhaim", "Shiv Ratri Pooja",
-            "Birthday Pooja", "Sadmosh", "Varshik", "Kundli Milan"};
+            "Birthday Pooja", "Sadmosh", "Varshik", "Kundli Milan","Navratra Path",};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
