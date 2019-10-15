@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/ganeshjii">
+    android:orientation="vertical"
+    android:background="@drawable/ganpati">
+
 
 
 <!--
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/ganeshjii" />
+        android:layout_height="400dp"
+        android:src="@drawable/ganpati"
+        android:scaleType="fitCenter"/>
 -->
+
 
 
     <LinearLayout
@@ -51,4 +55,4 @@
 -->
 
     </LinearLayout>
-</RelativeLayout>
+</LinearLayout>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_splash">
 
 
     <androidx.viewpager.widget.ViewPager
@@ -35,8 +35,9 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:background="@null"
-        android:text="next"
-        android:textColor="@android:color/white" />
+        android:text="Next"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_blue_light" />
 
     <Button
         android:id="@+id/btn_skip"
@@ -45,7 +46,8 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:background="@null"
-        android:text="skip"
-        android:textColor="@android:color/white" />
+        android:text="Skip"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_blue_light" />
 
 </RelativeLayout>
